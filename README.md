@@ -1,2 +1,2 @@
 # play-go
-Experiment with [Go](https://golang.org/0.
+Experiment with [Go](https://golang.org/).
